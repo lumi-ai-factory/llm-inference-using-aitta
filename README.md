@@ -1,6 +1,8 @@
 # Introduction to using Large Language Models through inference platform Aitta
 
-Are you looking for an easy way to start using Large Language Models (LLMs)? This course is for anyone who wants to leverage LLMs for text data without the hassle of complex setups or sifting through extensive documentation. Whether you're a researcher, developer or just curious about AI, you'll learn how to interact with LLMs efficiently using simple API (Application Programming Interface) calls to the inference service [Aitta](https://aitta.csc.fi), which runs open-weight models on the LUMI supercomputer and offers an OpenAI-compatible API.
+Are you looking for an easy way to start using Large Language Models (LLMs)? This course is for anyone who wants to leverage LLMs for text data without the hassle of complex setups or sifting through extensive documentation. Whether you're a researcher, developer or just curious about AI, you'll learn how to interact with LLMs efficiently using simple API (Application Programming Interface) calls to the inference service [Aitta](https://aitta.csc.fi), which runs open-weight models on the LUMI supercomputer and offers an OpenAI-compatible API. 
+
+Aitta is currently available for all users with access to the LUMI supercomputer. You need a valid LUMI account with access to at least one active LUMI project. See more from [LUMI docs - Aitta Inference Service](https://docs.lumi-supercomputer.eu/laif/inference/aitta/).
 
 Please head over to the course's [welcome page](./material/00_welcome.ipynb) in the `material` folder to review the prerequisites and course setup details.
 
