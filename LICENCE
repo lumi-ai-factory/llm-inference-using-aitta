@@ -1,18 +1,20 @@
-All material in the directory 'material/' and 'exercises/' and their sub-directories as well as
-all images are licensed under a Creative Commons Attribution-ShareAlike 4.0
-International (CC-BY-SA 4.0) license unless otherwise noted.
+# License
 
-Full text of the license is available in the file 'docs/LICENSE' and at
-<http://creativecommons.org/licenses/by-sa/4.0/>.
-
-Any other files are licensed under the MIT license (below) unless otherwise
-noted.
+The content and documentation of this repository are licensed under the Creative Commons Attribution 4.0 International License (CC-BY 4.0).
+The code and examples contained in this repository are licensed under the MIT License.
 
 ---
 
-MIT License
+## Creative Commons Attribution 4.0 International (CC-BY 4.0)
 
-Copyright (c) 2025 CSC Training
+This work is licensed under the Creative Commons Attribution 4.0 International License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+---
+
+## MIT License
+
+Copyright (c) 2026 LUMI AI Factory
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
