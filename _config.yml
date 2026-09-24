@@ -1,5 +1,6 @@
 title: LLM Inference using Aitta
 author: LUMI AI Factory
+copyright: "2026"
 logo: logos/LAIF_logo_dark.png
 
 execute:
@@ -9,6 +10,10 @@ html:
   use_repository_button: true
   use_issues_button: true
   use_edit_page_button: true
+  extra_footer: |
+    <p>Content is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>. </p>
+    <p>The LUMI AI Factory Service Center is funded jointly by the EuroHPC Joint Undertaking and the Participating States FI, CZ, DK, EE, NO, PL.</p>
+
 
 repository:
   url: https://github.com/lumi-ai-factory/llm-inference-using-aitta
