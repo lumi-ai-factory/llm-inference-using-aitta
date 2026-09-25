@@ -17,3 +17,7 @@ Let us know by describing the mistake (which file and what needs fixing) in a ne
 Fork the repo, create a new branch, make your changes, push to your fork, and open a Pull Request.
 
 ![ai-image](./material/images/compressed_img.jpg)
+--------
+**Transparency note on AI assistance**
+
+Parts of the text and code in this material were drafted or revised with the help of AI tools (Microsoft Copilot and Anthropic Claude). All material has been reviewed by the authors and the LUMI AI Factory staff, who are responsible for its content.
